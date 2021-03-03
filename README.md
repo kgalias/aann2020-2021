@@ -19,5 +19,5 @@ The solved notebooks have to be handed in (either via email, sharing the file vi
 
 ### Project
 
-The project will be graded based on compliance with the chosen topic, the amount of the work put in, and the novelty of the idea. Details (along with proposed project topics) will be announced in a separate document.
+The project will be graded based on compliance with the chosen topic, quality of the code, novelty of the idea, and presentation of the results. Details (along with proposed project topics) will be announced in a separate document.
 A 2 page report in PDF format detailing your findings is required. The project will be defended (probably during one of the last classes). You can do the project in groups of two, but then you also need to supply a document outlining the contribution of both members (you will be graded separately).
