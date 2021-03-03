@@ -15,7 +15,7 @@ Your final grade will be based on completing the tasks in the notebooks (50%) an
 There might also be a chance to give a seminar at the end of the semester, which can increase you grade by a small amount (~5%).
 
 ### Homework
-The solved notebooks have to be handed in (either via email, sharing the file via Google Drive, or a private GitHub repo) until the start of the next class.
+The solved notebooks have to be handed in (either via email or sharing the file via Google Drive with a notification) until the start of the next class.
 
 ### Project
 
