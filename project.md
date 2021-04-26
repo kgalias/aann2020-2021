@@ -1,6 +1,13 @@
 # Project
+## Basics
+- The topic of your project needs to be chosen until May 10th.
+- A two-page report in PDF format detailing your findings is required.
+- The project needs to be defended and handed in 3 days before the defense.
+- The project should preferably be shared as a GitHub repo, but I will accept other solutions.
+- The project can be done in groups of two, but then you also need to supply a document outlining the contribution of both members (you will be graded separately). 
+
 ## Proposed topics
-The list below contains example project proposals.
+If you're involved in a project which utilizes DL, you can build on that. The project can also be used for another course. It can also consist of (partially) replicating a research paper. The list below contains example project proposals.
 
 ### Vision
 - Comparison of GAN, VAE, and WAE generative models on the [SVHN](http://ufldl.stanford.edu/housenumbers/) dataset.
